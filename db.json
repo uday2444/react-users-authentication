@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "FirstName": "uday",
+      "LastName": "s",
+      "Email": "uday@gmail.com",
+      "Password": "u",
+      "ConfirmPassword": "u",
+      "id": 1
+    },
+    {
+      "FirstName": "uday",
+      "LastName": "s",
+      "Email": "uday@gmail.com",
+      "Password": "123",
+      "ConfirmPassword": "123",
+      "id": 2
+    },
+    {
+      "FirstName": "Shekar",
+      "LastName": "G S",
+      "Email": "shekar@gmail.com",
+      "Password": "shekar",
+      "ConfirmPassword": "shekar",
+      "id": 3
+    },
+    {
+      "FirstName": "yadu",
+      "LastName": "s",
+      "Email": "yadu@gmail.com",
+      "Password": "yadu",
+      "ConfirmPassword": "yadu",
+      "id": 4
+    }
+  ]
+}
