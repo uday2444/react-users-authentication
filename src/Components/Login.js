@@ -13,7 +13,7 @@ const Login = () => {
     e.preventDefault();
 
     axios
-      .get("users/")
+      .get("/users")
       .then((res) => {
         const userEmail = res.data.find((user) => user.Email === email);
         if (!userEmail) {

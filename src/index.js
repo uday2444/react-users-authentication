@@ -8,7 +8,7 @@ import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "react-toastify/dist/ReactToastify.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-axios.defaults.baseURL = "http://localhost:8000/";
+axios.defaults.baseURL = "http://localhost:3000/";
 
 root.render(
   <React.StrictMode>

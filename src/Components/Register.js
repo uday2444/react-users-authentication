@@ -26,7 +26,7 @@ const Register = () => {
     console.log(data);
 
     axios
-      .post("users", data)
+      .post("/users", data)
       .then((res) => {
         toast.success("Registered Successfully");
         navigate("/login");
